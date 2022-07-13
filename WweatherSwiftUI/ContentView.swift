@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        ZStack {Color.blue.edgesIgnoringSafeArea(.all)}
+        ZStack {Color.red.edgesIgnoringSafeArea(.all)}
     }
 }
 
